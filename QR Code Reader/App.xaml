@@ -1,0 +1,10 @@
+﻿<Application x:Class="QR_Code_Reader.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:QR_Code_Reader"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--ResourceDictionary Source="button.xaml"/-->
+        <ResourceDictionary Source="etro.xaml"/>
+    </Application.Resources>
+</Application>

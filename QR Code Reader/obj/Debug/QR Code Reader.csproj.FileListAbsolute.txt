@@ -1,0 +1,89 @@
+c:\users\kyleb\documents\visual studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe.config
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.pdb
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.dll
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.dll
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.dll
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.dll
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.xml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.xml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.pdb
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.xml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.pdb
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.xml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csprojResolveAssemblyReference.cache
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.g.cs
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\App.g.cs
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.cache
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.lref
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.baml
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.g.resources
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR_Code_Reader.Properties.Resources.resources
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.GenerateResource.Cache
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.exe
+C:\Users\kyleb\Documents\Visual Studio 2015\Projects\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.pdb
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe.config
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.pdb
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.dll
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.dll
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.dll
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.dll
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.xml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.xml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.pdb
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.xml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.pdb
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.xml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csprojResolveAssemblyReference.cache
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.g.cs
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\App.g.cs
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.cache
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.lref
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.baml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.g.resources
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR_Code_Reader.Properties.Resources.resources
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.GenerateResource.Cache
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.CoreCompileInputs.cache
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.exe
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.pdb
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\button.baml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\App.baml
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_Content.g.cs
+C:\Users\Fridge\Documents\QR Code Reader\QR Code Reader\obj\Debug\etro.baml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe.config
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.exe
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\QR Code Reader.pdb
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.dll
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.dll
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.dll
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.dll
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.xml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.xml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.pdb
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.xml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.pdb
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\bin\Debug\zxing.presentation.xml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csprojResolveAssemblyReference.cache
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\button.baml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\etro.baml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.g.cs
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\App.g.cs
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_Content.g.cs
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.cache
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader_MarkupCompile.lref
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\App.baml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\MainWindow.baml
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.g.resources
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR_Code_Reader.Properties.Resources.resources
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.GenerateResource.Cache
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.exe
+C:\Users\kyleb\Documents\QR Code Reader\QR Code Reader\obj\Debug\QR Code Reader.pdb
