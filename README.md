@@ -1,4 +1,4 @@
-# QR Code Reader
+# QR Code Reader for Windows
 ### Basic AF QR Code Reader I copy + pasted together at work for a staff requirement
 
 Seriously that is all this is... I needed something at work to read QR Codes and display them in a relatively nice way that wasn't any of the ridiculous QR Code desktop applications that currently exist on the interwebs -_-)
