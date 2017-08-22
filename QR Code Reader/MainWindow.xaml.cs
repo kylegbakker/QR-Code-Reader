@@ -198,9 +198,11 @@ namespace QR_Code_Reader
         {
             if (camSources.Count > 1)
             {
+                decodingThread.Abort();
                 camVideo.Stop();
                 try
                 {
+                    decodingThread = new Thread(new ThreadStart(decodeLoop));
                     if (camSelected == 0)
                     {
                         camStream(1);
@@ -209,6 +211,7 @@ namespace QR_Code_Reader
                     {
                         camStream(0);
                     }
+                    decodingThread.Start();
                 }
                 catch (Exception exp)
                 {
