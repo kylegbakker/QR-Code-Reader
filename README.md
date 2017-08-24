@@ -13,7 +13,9 @@ The live webcam feed and processing is thanks to the AForge Framework over at ht
 Licences for the sake of redundancy:
 
 http://www.aforgenet.com/framework/license.html
+
 https://www.gnu.org/licenses/lgpl.html
+
 https://github.com/zxing/zxing/wiki/License-Questions
 
 ## Usage
